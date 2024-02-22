@@ -10,20 +10,19 @@
 
     "platforms": [
         {
-            "platform": "TuyaPlatform",
-            "name": "TuyaPlatform",
-            "options":
-              {
-                "username": "",
-                "password": "",
-                "accessId": "",
-                "accessKey": "",
+            "options": {
+                "username": "abhisharma7@icloud.com",
+                "password": "abhiAbhi1@#",
+                "accessId": "eeyejnnuq34gna9wt8fh",
+                "accessKey": "aacdaf1f3411412a938b0f87ef3f86a1",
                 "lang": "en",
                 "projectType": "2",
-                "appSchema": "tuyaSmart",
-                "countryCode": 86,
-                "debug":false
-              }
+                "appSchema": "smartlife",
+                "countryCode": 1,
+                "debug": true
+            },
+            "name": "Tuya",
+            "platform": "TuyaPlatform"
         }
     ]
 }
